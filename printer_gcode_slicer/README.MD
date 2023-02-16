@@ -1,0 +1,1 @@
+  In progress. created to be a better slicer for 2d cnc machines (better then cura). Using normal images, and a custom edge detection algorythm. it will print objects true to location and scale. allowing the bed to be more efficently used
